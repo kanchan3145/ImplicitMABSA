@@ -1,0 +1,6 @@
+text,aspect,image,label,true,text_pred,cross_pred
+RT @ MiamiHerald : [MASKED_ASPECT] and Melissa Keller are the first same - sex couple to be married in Broward :,Joanne Stiger,data\TwitterDataMABSA\twitter2015_images\62850.jpg,2,positive,neutral,positive
+"Anyone near Akron , come see the [MASKED_ASPECT] @ TheAkronTangier today 11 - 6",Avant Garde Craft Show,data\TwitterDataMABSA\twitter2015_images\115220.jpg,2,positive,neutral,positive
+RT @ HuffingtonPost : Escaped king cobra has [MASKED_ASPECT] neighborhood on alert,Florida,data\TwitterDataMABSA\twitter2015_images\45400.jpg,1,neutral,negative,neutral
+"[MASKED_ASPECT] Crowned 2016 La Liga Champions , Suarez Sink . . .",Barcelona,data\TwitterDataMABSA\twitter2017_images\16_05_17_852.jpg,2,positive,neutral,positive
+# news # bollywood ' [MASKED_ASPECT] beats Shah Rukh Khan pays 32 cr as advance tax ',Salman Khan,data\TwitterDataMABSA\twitter2017_images\O_1071.jpg,2,positive,neutral,positive

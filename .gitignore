@@ -1,0 +1,32 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Large datasets
+data/
+*.zip
+*.tar
+*.gz
+
+# Model weights and feature caches
+checkpoints/
+cache/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+
+# Local files
+.env
+.env.*
+.vscode/
+.ipynb_checkpoints/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
